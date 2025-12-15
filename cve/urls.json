@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://x.com/zoomeye_team/status/1999303934993981925?s=46",
+    "context": "This post announces two new vulnerabilities, CVE-2025-55184 (Denial of Service) and CVE-2025-55183 (Source Code Exposure), in RSC.",
+    "date": "2025-12-12"
+  },
+  {
+    "url": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
+    "context": "This blog post from Google's Project Zero provides a technical deep-dive into CVE-2025-21042, a zero-click exploit that compromised Samsung Android devices using a malicious DNG image.",
+    "date": "2025-12-15"
+  }
+]
