@@ -8,5 +8,10 @@
     "url": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
     "context": "This blog post from Google's Project Zero provides a technical deep-dive into CVE-2025-21042, a zero-click exploit that compromised Samsung Android devices using a malicious DNG image.",
     "date": "2025-12-15"
+  },
+  {
+    "url": "https://x.com/cracbot/status/2000521267015999940",
+    "context": "This tweet discusses an update to a scanner for CVE-2024-4577 that now reports vulnerable instances even if they cannot be exploited.",
+    "date": "2025-12-15"
   }
 ]
