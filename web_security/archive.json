@@ -3,5 +3,10 @@
     "url": "https://neo.projectdiscovery.io/chat/share/03f56085-4275-4912-98fa-e64a2fde70b9",
     "context": "This link details methods for mapping a GitHub username from a given email address, a technique useful for secret scanning within repositories.",
     "date": "2025-12-13"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
+    "context": "This article details a data breach at SoundCloud where attackers stole a database containing user data, which led to subsequent VPN access disruptions and extortion attempts.",
+    "date": "2025-12-16"
   }
 ]
