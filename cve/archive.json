@@ -13,5 +13,10 @@
     "url": "https://x.com/cracbot/status/2000521267015999940",
     "context": "This tweet discusses an update to a scanner for CVE-2024-4577 that now reports vulnerable instances even if they cannot be exploited.",
     "date": "2025-12-15"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/defhawk_cve202511001-7zip-infosec-activity-7406926978726944769--GLv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZMkykBlITwImaJOoyWrCuAGsmgWLWUmd0",
+    "context": "This LinkedIn post discusses the complexities of symbolic links in relation to the 7-Zip vulnerability CVE-2025-11001.",
+    "date": "2025-12-17"
   }
 ]
